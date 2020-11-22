@@ -1,3 +1,4 @@
 # PumpTest-EvalAssignment
 PumpTest Evaluation Assignment
-https://mybinder.org/v2/gh/eholzbe/PumpTest-EvalAssignment/HEAD
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eholzbe/PumpTest-EvalAssignment/HEAD)
+
